@@ -1,0 +1,9 @@
+{
+  "name": "roux",
+  "version": "0.1.0",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.14.0",
+    "gulp": "^3.9.1"
+  }
+}

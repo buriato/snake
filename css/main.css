@@ -1,0 +1,22 @@
+.matrix {
+    float: left;
+    border-top: 1px solid #999;
+    border-left: 1px solid #999999;
+    margin: 30px;
+}
+
+.matrix div {
+    float: left;
+    /*width: 19px;*/
+    /*height: 19px;*/
+    border-bottom: 1px solid #999999;
+    border-right: 1px solid #999999;
+}
+
+
+.food {
+    background-color: green;
+}
+.snake {
+    background-color: red;
+}
